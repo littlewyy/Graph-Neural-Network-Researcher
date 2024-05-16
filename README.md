@@ -1,4 +1,4 @@
-# Graph-Neural-Network-Researcher
+# Graph-Neural-Network-Researcher(Mainland)
 图神经网络领域活跃研究学者（国内）
 
 ### 清华大学
