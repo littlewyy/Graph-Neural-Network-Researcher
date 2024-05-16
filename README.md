@@ -210,7 +210,6 @@
 -------
 
 
-
 ### 吉林大学
 
 - **Xin Wang**, 副教授
@@ -255,6 +254,16 @@
 
   - [谷歌学术](https://scholar.google.com/citations?user=Z7yEoOQAAAAJ&hl=en)
   - [个人主页](https://mingli-ai.github.io/)
+
+## HK
+
+### HKUST(GZ)
+
+- **Yuxuan Liang**, 助理教授
+
+  - [谷歌学术](https://scholar.google.co.jp/citations?user=n9cODgcAAAAJ&hl=en)
+  - [个人主页](https://mingli-ai.github.io/)
+
 
   
 
