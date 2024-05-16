@@ -262,7 +262,9 @@
 - **Yuxuan Liang**, 助理教授
 
   - [谷歌学术](https://scholar.google.co.jp/citations?user=n9cODgcAAAAJ&hl=en)
-  - [个人主页](https://mingli-ai.github.io/)
+  - [个人主页](https://yuxuanliang.com/)
+  - [招生帖子](https://zhuanlan.zhihu.com/p/695310293)
+  
 
 
   
