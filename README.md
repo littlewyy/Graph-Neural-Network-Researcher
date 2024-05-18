@@ -15,9 +15,6 @@
 - **Yuxiao Dong**, 副教授
   - [谷歌学术](https://scholar.google.com/citations?user=dZJy8_8AAAAJ&hl=en)
   - [个人主页](https://keg.cs.tsinghua.edu.cn/yuxiao/)
-- **Ziwei Zhang**, postdoc researcher
-  - [谷歌学术](https://scholar.google.com/citations?hl=en&user=AnrzkUUAAAAJ)
-  - [个人主页](https://zw-zhang.github.io/)
 
 ---
 
@@ -137,9 +134,6 @@
 - **Chuan Shi**, 教授
   - [谷歌学术](https://scholar.google.com/citations?user=tUq_v90AAAAJ&hl=zh-CN)
   - [个人主页](http://shichuan.org/)
-- **Xiao Wang**, 教授
-  - [谷歌学术](http://scholar.google.com/citations?user=MnzarAQAAAAJ&hl=zh-CN)
-  - [个人主页](https://wangxiaocs.github.io/)
 
 -----
 
@@ -147,13 +141,18 @@
 
 ### 北京航空航天大学
 
+- **Xiao Wang**, 教授
+  - [谷歌学术](http://scholar.google.com/citations?user=MnzarAQAAAAJ&hl=zh-CN)
+  - [个人主页](https://wangxiaocs.github.io/)
 - **Hao Peng**, 教授
   - [谷歌学术](https://scholar.google.com/citations?user=R25rbyQAAAAJ&hl=zh-CN)
   - [个人主页](https://penghao-bdsc.github.io/)
 - **Qingyun Sun**, 副教授
   - [谷歌学术](https://scholar.google.com/citations?user=e2oYBzUAAAAJ&hl=zh-CN)
   - [个人主页](https://sunqysunqy.github.io/)
-
+- **Ziwei Zhang**, 副教授
+  - [谷歌学术](https://scholar.google.com/citations?hl=en&user=AnrzkUUAAAAJ)
+  - [个人主页](https://zw-zhang.github.io/)
 -----
 
 
